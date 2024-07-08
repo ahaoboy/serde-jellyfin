@@ -1,0 +1,11 @@
+[package]
+name = "serde-jellyfin"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+authors = ["ahaoboy"]
+repository = "https://github.com/ahaoboy/serde-jellyfin"
+description = "serde jellyfin"
+
+[dependencies]
+serde = { version = "1", features = ["derive"] }

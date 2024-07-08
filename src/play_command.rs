@@ -1,0 +1,1 @@
+pub type PlayCommand = String;

@@ -1,0 +1,1 @@
+pub type GroupQueueMode = String;
